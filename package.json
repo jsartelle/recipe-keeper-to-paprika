@@ -1,0 +1,18 @@
+{
+  "name": "recipe-keeper-to-paprika",
+  "version": "1.0.0",
+  "description": "Convert recipes from Recipe Keeper to Paprika 3 format",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Sartelle",
+  "license": "MIT",
+  "dependencies": {
+    "humanize-duration": "^3.27.0",
+    "js-yaml": "^4.1.0",
+    "luxon": "^2.1.1",
+    "node-html-parser": "^5.1.0",
+    "turndown": "^7.1.1"
+  }
+}
